@@ -1,0 +1,14 @@
+# PROYECTO DiccionarioSinonimos 
+# SOLO MOSTRAR EL CODIGO FUENTE los archivos .java
+
+# ignorar las clases compiladas
+*.class
+
+# ignorar los archivos de log
+*.log
+
+# ignorar la carpeta .idea
+.idea/ 
+
+# ignorar los archivos iml
+*.iml
