@@ -16,6 +16,9 @@ public class Main {
         sinonimos.mostrarSinonimos();
         System.out.println(" ");
 
+        System.out.println("Hola, esta es la modificación del código realizada " +
+                            "por Eduardo Ruano Carrón. Un saludo.");
+
         while(!salir){
 
 
